@@ -1,0 +1,1 @@
+package test; public class Test { static { System.out.println("hello"); } public Test() { System.out.println("world"); } }
